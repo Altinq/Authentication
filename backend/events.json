@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"test","image":"https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg","date":"1111-11-11","description":"1dfdsazcfd","id":"c9251661-b543-4b12-8c82-d32bab2eb0c8"}],"users":[{"email":"test@test.com","password":"$2a$12$Dwh5/e0LB3YknORTm0GPIukwQJNYCRY1KBR5bGY82TERQ1Eg9al2q","id":"2751b25c-186e-450b-88a0-3ab4d0c65ddc"},{"email":"aqu@gmail.com","password":"$2a$12$meZSCzDW3hSpZo9sLYLXLusL0Q2uyrlUc4wohBMEVzaM3IEyn08gW","id":"a9503e64-3f06-4482-9e36-8e8819ce0400"},{"email":"fdsf@gmail.com","password":"$2a$12$yvs/lAAx57dmSJOlPD7BGuzJCk5J4/UqNIomvdKyP155gwYkm3tDS","id":"e8666513-f55d-47bc-9ca3-dd73dbab541d"},{"email":"asda@gmail.com","password":"$2a$12$lUNlHSLMKHE1MowGrd3kPuS4ZVGerVXdvIiV7t24F0SNEF1JJqChC","id":"2a60e5ba-9f73-4517-9a28-ae006f6293c9"},{"email":"belly.farm@gmail.com","password":"$2a$12$5fZXEvZZxrJpdjD0N.bQLuK9Vt9qYPWNylzdfkKal2VdGMAJE.ex.","id":"dc8da1d1-2ea3-41a8-8445-432961514ac9"},{"email":"test1@test.com","password":"$2a$12$cvtuIakQdkOahkv.8SBHC.hTJvt.Sc.0nt2JMq08kdVAtckH7O/PC","id":"bfa87f37-7f29-40a1-b383-752bae68a634"},{"email":"test2@gmail.com","password":"$2a$12$.WZM03m/5oDVh8QjS6MIGOFwp98RbzVHiI7Vrcw57vwISuYzpaStK","id":"0914973e-e038-4ca9-a9b5-cb05298ae275"}]}
